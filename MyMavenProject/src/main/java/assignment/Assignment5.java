@@ -1,13 +1,13 @@
 // By using method leaned in class
 /*Write a program to find the grade of 2 students based on total marks(3 subjects)
-
  1. Get the students marks by constructor
  2. Return total mark into main method.
  3. Find the grade of each student
 */
 package assignment;
 
-public class Assignment5 {
+public class Assignment5 
+{
 
 	int m1,m2,m3,total;
 	
