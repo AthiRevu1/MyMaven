@@ -10,6 +10,7 @@ public class Assignment1 {
 		System.out.println("The age of the person is "+age);
 	}
 	
+	
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
